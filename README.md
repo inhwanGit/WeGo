@@ -21,7 +21,7 @@
 ---|---|
 
 
-![3](https://github.com/inhwanGit/WeGo/assets/132810591/1b0c7a08-cb3d-40e8-ab66-fe8e2871bc3f) <- 튜토리얼 진행|![4](https://github.com/inhwanGit/WeGo/assets/132810591/43925a70-eb07-4b6b-843e-f6bf3fec316c) <- 영상 시청을 통해 정보를 얻을 수 있다.
+![3](https://github.com/inhwanGit/WeGo/assets/132810591/1b0c7a08-cb3d-40e8-ab66-fe8e2871bc3f) <- 튜토리얼 진행|![4](https://github.com/inhwanGit/WeGo/assets/132810591/43925a70-eb07-4b6b-843e-f6bf3fec316c)                        <- 영상 시청을 통해 정보를 얻을 수 있다.
 ---|---|
 
 ![5](https://github.com/inhwanGit/WeGo/assets/132810591/09d18179-7a53-48d0-85fc-f33d36149d50) <- Photon 서버를 활용한 멀티 플레이|![6](https://github.com/inhwanGit/WeGo/assets/132810591/b415aec6-1027-424f-b4af-481647724c84) <- Photon 서버를 활용한 채팅
