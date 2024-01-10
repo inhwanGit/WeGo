@@ -17,5 +17,5 @@
 ##### • 게시판 기능
 
 ## 👀 서비스 화면
-<figure class="half"><a href="link"><img src="https://github.com/inhwanGit/WeGo/assets/132810591/33ef8996-9c6d-4506-95c0-745cf405fd5a"></a>  <a href="link"><img src="[이미지경로](https://github.com/inhwanGit/WeGo/assets/132810591/588fd92d-f3dc-4f88-8231-69dd8f4080e1)https://github.com/inhwanGit/WeGo/assets/132810591/588fd92d-f3dc-4f88-8231-69dd8f4080e1"></a>  <figcaption>2개이미지.</figcaption></figure>
+<figure class="half"><a href="link"><img src="https://github.com/inhwanGit/WeGo/assets/132810591/33ef8996-9c6d-4506-95c0-745cf405fd5a"></a>  <a href="link"><img src="https://github.com/inhwanGit/WeGo/assets/132810591/588fd92d-f3dc-4f88-8231-69dd8f4080e1)https://github.com/inhwanGit/WeGo/assets/132810591/588fd92d-f3dc-4f88-8231-69dd8f4080e1"></a></figure>
 
