@@ -19,4 +19,3 @@
 ## 👀 서비스 화면
 ![2](https://github.com/inhwanGit/WeGo/assets/132810591/588fd92d-f3dc-4f88-8231-69dd8f4080e1)
 ![1](https://github.com/inhwanGit/WeGo/assets/132810591/33ef8996-9c6d-4506-95c0-745cf405fd5a)
---- | --- |
